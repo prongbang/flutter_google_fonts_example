@@ -1,6 +1,7 @@
-# fluttergooglefontsexample
+# Flutter Google Fonts Example
 
 A new Flutter application.
+https://www.youtube.com/watch?v=g8-xVw_Lk30
 
 ## Getting Started
 
